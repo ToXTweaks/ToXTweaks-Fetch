@@ -115,3 +115,19 @@ For more information about the**ToX Premium Utility**, visit #💫・premium-uti
 * Added**Local Reverts & Fixes**inside the App Folder
 
 For more information about the**ToX Premium Utility**, visit #💫・premium-utility
+
+---
+
+**Updated:** September 11, 2026
+
+#**TOX PREMIUM `V4.1.4` Change Log**## >**App Related Changes:*** Embedded**Chipset Tuner Dependencies**inside the executable
+* Improved**Debloat > Applications**Install/Uninstall Process
+* Removed several**Debloat > Features**options to prevent accidentally disabling important Windows features
+* Added Optimal Default Settings for**Auto Benchmarking Tools*** Fixed a bug inside the**Win32Separation Auto Benchmark*** Added a new**Win32Separation Benchmarking Mode*** Improved**Win32Separation Auto Benchmark Accuracy*** Fixed**Normal BIOS Tweaks**not opening
+* Prevented the**Session from being Killed**when Network is reset
+
+## >**Tweaks Related Changes:*** Fixed**Game Boosters**not applying Expert Mode properly
+* Added more**Chipset Tuner Tweaks**for AMD
+* Improved**BIOS Optimization**covering more Hidden BIOS Settings
+
+## >**New Features:*** Added Optimal Default Settings for**Timer Resolution*** Added Optimal Default Settings for**Win32Separation*** Added Optimal Default Settings for**GPU Affinity*** Added new**Win32Separation Benchmarking Mode**For more information about the**ToX Premium Utility**, visit #💫・premium-utility
